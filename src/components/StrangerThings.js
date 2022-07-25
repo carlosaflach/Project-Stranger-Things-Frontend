@@ -10,6 +10,7 @@ const {
   REACT_APP_HAWKINS_TIMEOUT,
   REACT_APP_UPSIDEDOWN_URL,
   REACT_APP_UPSIDEDOWN_TIMEOUT,
+  REACT_APP_DEVELOPMENT_MODE,
 } = process.env;
 
 const getRealityClass = (hereIsTheUpsideDownWorld) => (
@@ -154,6 +155,8 @@ class StrangerThings extends React.Component {
             <button type="button" onClick={ this.previousPage }>Anterior</button>
             <button type="button" onClick={ this.nextPage }>Próximo</button>
           </div>
+          { REACT_APP_DEVELOPMENT_MODE === 'true'
+            ? (<div className="additional">Em desenvolvimento</div>) : null}
         </div>
       </div>
     );
