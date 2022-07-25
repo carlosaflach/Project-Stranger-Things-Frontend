@@ -1,9 +1,9 @@
 import React from 'react';
-// import 'dotenv/config';
+import DotEnv from 'dotenv';
 import CharactersService from '../services/charactersAPI';
 import Table from './Table';
 
-require('dotenv').config();
+DotEnv.config();
 
 const {
   REACT_APP_HAWKINS_URL,
