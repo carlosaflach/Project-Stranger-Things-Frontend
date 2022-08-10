@@ -1,4 +1,4 @@
-# 🚧 README em construção 🚧
+# 🚧 README Under Construction 🚧
 
 <!-- Olá, Tryber!
 
@@ -14,3 +14,7 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 
 -->
+
+### Get To Know The Project
+
+- Live Site URL: [StrangerThings Project](https://carlosaflach-ft.herokuapp.com/)
