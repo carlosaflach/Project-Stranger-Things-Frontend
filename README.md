@@ -17,4 +17,4 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
 ### Get To Know The Project
 
-- Live Site URL: [StrangerThings Project](https://carlosaflach-ft.herokuapp.com/)
+- Live Site URL: [StrangerThings Project](https://carlosaflach-pd.herokuapp.com/)
